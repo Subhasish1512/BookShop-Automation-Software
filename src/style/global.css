@@ -1,0 +1,66 @@
+.total{
+    background-image: url("book.jpg");
+    background-size: cover;
+}
+
+
+.b{
+    background-image: url("book.jpg");
+    background-size: cover;
+    height: 89vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin: 10px;
+    padding: 5px;
+}
+.card{
+    background-color: rgba(17, 244, 172, 0.918);
+    opacity: .9;
+}
+.a{
+    background-color: seashell;
+    opacity: .9;
+}
+.nav-item{
+    margin: 5px;
+    padding: auto;
+}
+.c{
+    background-image: url("https://wallpaperaccess.com/full/934065.jpg");
+    background-size: cover;
+    height: 89vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.d{
+    background-image: url("https://wallpaperaccess.com/full/934065.jpg");
+    background-size: cover;
+    height: 89vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.e{
+    background-image: url("https://wallpaperaccess.com/full/934065.jpg");
+    background-size: cover;
+    height: 89vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.f{
+    background-image: url("https://wallpapercave.com/wp/wp2036914.jpg");
+    background-size: cover;
+    height: 88vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+.g{
+    background-color: rgba(14, 169, 216, 0.7);
+    padding: 10px;
+}
